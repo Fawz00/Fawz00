@@ -1,10 +1,62 @@
-- 👋 Hi, I’m @Fawz00
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Fawwaz Haryolukito Pambudi
 
-<!---
-Fawz00/Fawz00 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**`Developer & Content Creator`**
+<p>Bahasa pemrograman yang dikuasai:</p>
+<p align="left">
+  <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+  <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+  <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+  <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+  <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  <img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+</p>
+<br/>
+
+---
+
+Sebagai mahasiswa yang aktif dalam bidang teknologi informasi dan memiliki minat untuk mengembangkan web, aplikasi, maupun game secara sistematis dan berkualitas. Saya juga merupakan seorang konten kreator yang aktif pada sosial media dengan kemampuan untuk membuat proyek serta memanage waktu dengan baik.
+
+
+## Pengalaman Organisasi :
+
+<p>Sedang berproses.</p>
+
+## Pengalaman Lainnya :
+
+<h3>Konten Kreator youtube (Januari 2019 - Saat ini)</h3>
+<p>• Berkolaborasi dengan kakak saya dalam membuat konten berasama dan project DLC (Downloadable Content) menggunakan Java dan JSON dengan tema kearifan lokal.</p>
+
+<h3>Indosat IDCamp (September 2023 - Saat ini)</h3>
+<p>• IDCamp adalah sebuah program beasiswa yang diselenggarakan oleh Indosat Ooredoo Hutchison dengan tujuan untuk mencetak developer / programmer muda Indonesia yang siap bersaing di dunia ekonomi digital.</p>
+<ul>
+  <li>
+    <b>Front-End Web Developer (Dicoding Academy)</b>
+    <p>Membuat website dengan menggunakan semantic HTML dan CSS dengan menerapkan layout yang responsif dengan flexbox.</p>
+  </li>
+</ul>
+
+---
+
+<p align="left">
+  <a href="https://www.youtube.com/@Silverfish_Mc">
+         <img alt="youtube subscribers" title="My YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCNld-1Ger8dutrkKKCXzsCw?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a>
+  <a href="https://www.linkedin.com/in/fawwaz-haryolukito-pambudi/">
+        <img alt="linkedin" title="My Linkedin" src="https://custom-icon-badges.demolab.com/badge/-Fawwaz%20Haryolukito%20Pambudi-0073b1?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.instagram.com/fawzhp/">
+        <img alt="instagram" title="My Instagram" src="https://custom-icon-badges.demolab.com/badge/-fawzhp-0095F6?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+</p>
+
+<!--
+**fawaz00/fawz00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
