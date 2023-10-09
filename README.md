@@ -17,7 +17,7 @@
 
 ---
 
-Sebagai mahasiswa yang aktif dalam bidang teknologi informasi dan memiliki minat untuk mengembangkan web, aplikasi, maupun game secara sistematis dan berkualitas. Saya juga berkolaborasi dalam project konten kreator pada pembuatan DLC (Downloadable Content).
+Mahasiswa Universitas Negeri Semarang aktif dalam bidang teknologi informasi dan memiliki minat untuk mengembangkan aplikasi, web, maupun game secara sistematis dan berkualitas. Saya juga berkolaborasi dalam project konten kreator pada pembuatan DLC (Downloadable Content).
 
 
 ## Pengalaman Organisasi :
