@@ -17,12 +17,16 @@
 
 ---
 
-Mahasiswa Universitas Negeri Semarang aktif dalam bidang teknologi informasi dan memiliki minat untuk mengembangkan aplikasi, web, maupun game secara sistematis dan berkualitas. Saya juga berkolaborasi dalam project konten kreator pada pembuatan DLC (Downloadable Content).
+Mahasiswa Universitas Negeri Semarang aktif prodi Teknik Informatika yang memiliki minat untuk mengembangkan aplikasi, web, maupun game secara sistematis dan berkualitas. Saya juga berkolaborasi dalam project konten kreator pada pembuatan DLC (Downloadable Content).
 
 
 ## Pengalaman Organisasi :
 
 <p>Sedang berproses.</p>
+<!--
+<h3>Google Developer Student Clubs (GDSC) Universitas Negeri Semarang (Oktober 2023 - Saat ini)</h3>
+<p>• Google Developer Student Clubs (DSC) adalah program yang diselenggarakan oleh Google untuk mahasiswa di seluruh dunia yang tertarik pada pengembangan perangkat lunak dan teknologi. Program ini bertujuan untuk membantu mahasiswa mengembangkan keterampilan teknis, belajar tentang teknologi terbaru, dan berpartisipasi dalam proyek-proyek nyata yang berfokus pada pemecahan masalah dengan teknologi.</p>
+-->
 
 ## Pengalaman Lainnya :
 
@@ -34,7 +38,7 @@ Mahasiswa Universitas Negeri Semarang aktif dalam bidang teknologi informasi dan
 <ul>
   <li>
     <b>Front-End Web Developer (Dicoding Academy)</b>
-    <p>Membuat website dengan menggunakan semantic HTML dan CSS dengan menerapkan layout yang responsif dengan flexbox.</p>
+    <p>Membuat website menggunakan semantic HTML dan CSS dengan menerapkan layout yang responsif dengan flexbox.</p>
   </li>
 </ul>
 
