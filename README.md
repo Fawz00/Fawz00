@@ -6,6 +6,7 @@
   <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
   <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
   <img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+  <img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
   <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
   <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
   <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
@@ -22,11 +23,9 @@ Mahasiswa Universitas Negeri Semarang aktif prodi Teknik Informatika yang memili
 
 ## Pengalaman Organisasi :
 
-<p>Sedang berproses.</p>
-<!--
 <h3>Google Developer Student Clubs (GDSC) Universitas Negeri Semarang (Oktober 2023 - Saat ini)</h3>
-<p>• Google Developer Student Clubs (DSC) adalah program yang diselenggarakan oleh Google untuk mahasiswa di seluruh dunia yang tertarik pada pengembangan perangkat lunak dan teknologi. Program ini bertujuan untuk membantu mahasiswa mengembangkan keterampilan teknis, belajar tentang teknologi terbaru, dan berpartisipasi dalam proyek-proyek nyata yang berfokus pada pemecahan masalah dengan teknologi.</p>
--->
+<p>Google Developer Student Clubs (DSC) adalah program yang diselenggarakan oleh Google untuk mahasiswa di seluruh dunia yang tertarik pada pengembangan perangkat lunak dan teknologi. Program ini bertujuan untuk membantu mahasiswa mengembangkan keterampilan teknis, belajar tentang teknologi terbaru, dan berpartisipasi dalam proyek-proyek nyata yang berfokus pada pemecahan masalah dengan teknologi.</br>
+• Menjadi member GDSC UNNES 2023.</p>
 
 ## Pengalaman Lainnya :
 
