@@ -43,6 +43,21 @@ Mahasiswa Universitas Negeri Semarang aktif prodi Teknik Informatika yang memili
 
 ---
 
+## Sertifikat :
+
+<ul>
+  <li>
+    <b>Belajar Dasar Pemrograman Web | Dicoding Academy (17/11/2023 - 17/11/2026)</b>
+    <a href="https://www.dicoding.com/certificates/0LZ0QV973Z65">Link</a>
+  </li>
+  <li>
+    <b>Belajar Membuat Front-End Web untuk Pemula | Dicoding Academy (1/12/2023 - 1/12/2026)</b>
+    <a href="https://www.dicoding.com/certificates/QLZ9486L9P5D">Link</a>
+  </li>
+</ul>
+
+---
+
 <p align="left">
   <a href="https://www.youtube.com/@Silverfish_Mc">
          <img alt="youtube subscribers" title="YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCNld-1Ger8dutrkKKCXzsCw?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a>
