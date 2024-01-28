@@ -32,12 +32,17 @@ Mahasiswa Universitas Negeri Semarang aktif prodi Teknik Informatika yang memili
 <h3>Berkolaborasi dalam membuat konten Youtube (Januari 2019 - Saat ini)</h3>
 <p>• Membuat project kolaborasi DLC (Downloadable Content) menggunakan Java dan JSON dengan tema kearifan lokal.</p>
 
-<h3>Indosat IDCamp (September 2023 - Saat ini)</h3>
-<p>• IDCamp adalah sebuah program beasiswa yang diselenggarakan oleh Indosat Ooredoo Hutchison dengan tujuan untuk mencetak developer / programmer muda Indonesia yang siap bersaing di dunia ekonomi digital.</p>
+<h3>DBS Foundation Coding Camp 2024 (Januari 2024 - Saat ini)</h3>
+<p>• DBS Foundation Coding Camp adalah sebuah program pelatihan coding secara online untuk meningkatkan kompetensi masyarakat Indonesia dalam bidang teknologi informasi.</p>
 <ul>
   <li>
-    <b>Front-End Web Developer (Dicoding Academy)</b>
-    <p>Membuat website menggunakan semantic HTML dan CSS dengan menerapkan layout yang responsif dengan flexbox.</p>
+    <b>Belajar Dasar Pemrograman Web (Dicoding Academy)</b>
+  </li>
+  <li>
+    <b>Belajar Membuat Front-End Web untuk Pemula (Dicoding Academy)</b>
+  </li>
+  <li>
+    <b>Belajar Membuat Aplikasi Back-End untuk Pemula (Dicoding Academy)</b>
   </li>
 </ul>
 
@@ -53,6 +58,14 @@ Mahasiswa Universitas Negeri Semarang aktif prodi Teknik Informatika yang memili
   <li>
     <b>Belajar Membuat Front-End Web untuk Pemula | Dicoding Academy (1/12/2023 - 1/12/2026)</b>
     <a href="https://www.dicoding.com/certificates/QLZ9486L9P5D">Link</a>
+  </li>
+  <li>
+    <b>Memulai Pemrograman dengan Python | Dicoding Academy (29/12/2023 - 29/12/2026)</b>
+    <a href="https://www.dicoding.com/certificates/07Z6WW4DRZQR">Link</a>
+  </li>
+  <li>
+    <b>Belajar Machine Learning untuk Pemula | Dicoding Academy (30/12/2023 - 30/12/2026)</b>
+    <a href="https://www.dicoding.com/certificates/JMZVDD48NZN9">Link</a>
   </li>
 </ul>
 
