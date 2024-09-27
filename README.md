@@ -19,59 +19,6 @@
 
 ---
 
-Mahasiswa Universitas Negeri Semarang aktif prodi Teknik Informatika yang memiliki minat untuk mengembangkan aplikasi, web, maupun game secara sistematis dan berkualitas. Saya juga berkolaborasi dalam project konten kreator pada pembuatan DLC (Downloadable Content).
-
-
-## Pengalaman Organisasi :
-
-<h3>Google Developer Student Clubs (GDSC) Universitas Negeri Semarang (Oktober 2023 - Saat ini)</h3>
-<p>Google Developer Student Clubs (DSC) adalah program yang diselenggarakan oleh Google untuk mahasiswa di seluruh dunia yang tertarik pada pengembangan perangkat lunak dan teknologi. Program ini bertujuan untuk membantu mahasiswa mengembangkan keterampilan teknis, belajar tentang teknologi terbaru, dan berpartisipasi dalam proyek-proyek nyata yang berfokus pada pemecahan masalah dengan teknologi.</br>
-• Menjadi member GDSC UNNES 2023.</p>
-
-## Pengalaman Lainnya :
-
-<h3>Berkolaborasi dalam membuat konten Youtube (Januari 2019 - Saat ini)</h3>
-<p>• Membuat project kolaborasi DLC (Downloadable Content) menggunakan Java dan JSON dengan tema kearifan lokal.</p>
-
-<h3>DBS Foundation Coding Camp 2024 (Januari 2024 - Saat ini)</h3>
-<p>• DBS Foundation Coding Camp adalah sebuah program pelatihan coding secara online untuk meningkatkan kompetensi masyarakat Indonesia dalam bidang teknologi informasi.</p>
-<ul>
-  <li>
-    <b>Belajar Dasar Pemrograman Web (Dicoding Academy)</b>
-  </li>
-  <li>
-    <b>Belajar Membuat Front-End Web untuk Pemula (Dicoding Academy)</b>
-  </li>
-  <li>
-    <b>Belajar Membuat Aplikasi Back-End untuk Pemula (Dicoding Academy)</b>
-  </li>
-</ul>
-
----
-
-## Sertifikat :
-
-<ul>
-  <li>
-    <b>Belajar Dasar Pemrograman Web | Dicoding Academy (17/11/2023 - 17/11/2026)</b>
-    <a href="https://www.dicoding.com/certificates/0LZ0QV973Z65">Link</a>
-  </li>
-  <li>
-    <b>Belajar Membuat Front-End Web untuk Pemula | Dicoding Academy (1/12/2023 - 1/12/2026)</b>
-    <a href="https://www.dicoding.com/certificates/QLZ9486L9P5D">Link</a>
-  </li>
-  <li>
-    <b>Memulai Pemrograman dengan Python | Dicoding Academy (29/12/2023 - 29/12/2026)</b>
-    <a href="https://www.dicoding.com/certificates/07Z6WW4DRZQR">Link</a>
-  </li>
-  <li>
-    <b>Belajar Machine Learning untuk Pemula | Dicoding Academy (30/12/2023 - 30/12/2026)</b>
-    <a href="https://www.dicoding.com/certificates/JMZVDD48NZN9">Link</a>
-  </li>
-</ul>
-
----
-
 <p align="left">
   <a href="https://www.youtube.com/@Silverfish_Mc">
          <img alt="youtube subscribers" title="YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCNld-1Ger8dutrkKKCXzsCw?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a>
