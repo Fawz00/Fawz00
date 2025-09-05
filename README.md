@@ -1,7 +1,7 @@
 # Fawwaz Haryolukito Pambudi
 
 **`Developer`**
-<p>Bahasa pemrograman yang dikuasai:</p>
+<p>The programming language that I usually use:</p>
 <p align="left">
   <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
   <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
@@ -17,6 +17,10 @@
 </p>
 <br/>
 
+<br/>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fawz00&layout=donut-vertical&theme=dark)
+
 ---
 
 <p align="left">
@@ -27,18 +31,3 @@
   <a href="https://www.instagram.com/fawzhp/">
         <img alt="instagram" title="My Instagram" src="https://custom-icon-badges.demolab.com/badge/-fawzhp-0095F6?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </p>
-
-<!--
-**fawaz00/fawz00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
