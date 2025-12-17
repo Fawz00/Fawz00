@@ -1,6 +1,6 @@
 # Fawwaz Haryolukito Pambudi
 
-**`Developer`**
+**`Software Developer` `Game Developer` `Web Developer` `Front-end` `Back-end`**
 <p>The programming language that I usually use:</p>
 <p align="left">
   <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
